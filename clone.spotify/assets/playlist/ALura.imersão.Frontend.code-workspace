@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/ALura.imersão.Frontend"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ALura.imersão.Frontend"
+	}
+}
